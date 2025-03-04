@@ -1,0 +1,79 @@
+﻿Code,Tube Number,Culture,Name,Ploidity,CaCo3,Filter,Rinse,Comment on filtration,Ca (ug/L),Mg (ug/L),Sr (ug/L),Na (ug/L)
+MAX1,16,K/2,Medium only,-,No,0.8,NH4OH,,49.67,3034.62,0.499,580.79
+MAX2,17,K/2,Medium only,-,No,0.8,NH4OH,,41.61,640.22,0.472,427.09
+MAX3,18,K/2,Medium only,-,No,0.8,NH4OH,,51.11,5276.07,0.495,491.48
+MAX0,18.2,K/2,Medium only,-,No,0.8,NH4OH,,50.73,5300.59,0.472,505.69
+MBX1,19,K/2,Medium only,-,No,0.4,NH4OH,,33.51,193.68,0.297,347.40
+MBX2,20,K/2,Medium only,-,No,0.4,NH4OH,,35.26,789.57,0.487,613.31
+MBX3,21,K/2,Medium only,-,No,0.4,NH4OH,,29.76,535.35,0.292,311.61
+MAY1,22,K/2,Medium only,-,No,0.8,K2B4O7,,35.80,69.58,0.425,437.85
+MAY2,23,K/2,Medium only,-,No,0.8,K2B4O7,,41.23,52.18,0.424,323.21
+MAY3,24,K/2,Medium only,-,No,0.8,K2B4O7,,45.46,111.13,0.705,775.65
+MBY1,25,K/2,Medium only,-,No,0.4,K2B4O7,,19.55,34.64,0.177,132.66
+MBY2,26,K/2,Medium only,-,No,0.4,K2B4O7,,42.52,98.33,0.591,690.50
+MBY3,27,K/2,Medium only,-,No,0.4,K2B4O7,,17.40,30.79,0.172,139.89
+SAX1,28,MIR 02,Syracosphaera pulchra,n,Yes,0.8,NH4OH,,332.11,478.44,3.663,3751.20
+SAX2,29,MIR 02,Syracosphaera pulchra,n,Yes,0.8,NH4OH,,359.68,815.72,2.939,2298.94
+SAX3,30,MIR 02,Syracosphaera pulchra,n,Yes,0.8,NH4OH,,462.57,650.84,5.183,5534.18
+SBX1,31,MIR 02,Syracosphaera pulchra,n,Yes,0.4,NH4OH,,263.74,4199.22,2.234,1579.75
+SBX2,32,MIR 02,Syracosphaera pulchra,n,Yes,0.4,NH4OH,Leaked few drops?,221.52,307.11,1.605,1466.79
+SBX3,33,MIR 02,Syracosphaera pulchra,n,Yes,0.4,NH4OH,,191.58,124.77,1.264,619.24
+SAY1,34,MIR 02,Syracosphaera pulchra,n,Yes,0.8,K2B4O7,,369.91,611.86,4.139,4748.51
+SAY0,34.2,MIR 02,Syracosphaera pulchra,n,Yes,0.8,K2B4O7,,373.03,603.49,4.329,4792.06
+SAY2,35,MIR 02,Syracosphaera pulchra,n,Yes,0.8,K2B4O7,,147.58,92.47,0.870,137.94
+SAY3,36,MIR 02,Syracosphaera pulchra,n,Yes,0.8,K2B4O7,Rinsed with MqH2O and K2B4O7.,270.82,338.41,2.584,2142.66
+SAY4,37,MIR 02,Syracosphaera pulchra,n,Yes,0.8,K2B4O7,Additional 0.8 K2B4O7.,210.86,223.56,1.938,1499.07
+SBY1,38,MIR 02,Syracosphaera pulchra,n,Yes,0.4,K2B4O7,,184.81,253.62,1.728,1649.04
+SBY2,39,MIR 02,Syracosphaera pulchra,n,Yes,0.4,K2B4O7,,220.67,220.66,1.613,1317.27
+SAY2,35,MIR 02,Syracosphaera pulchra,n,Yes,0.8,K2B4O7,,127.46,92.41,0.781,251.38
+SBY3,36,MIR 02,Syracosphaera pulchra,n,Yes,0.4,K2B4O7,,,,,
+LAX1,41,RCC1151,Calcidiscus leptoporus,n,Yes,0.8,NH4OH,,162.37,209.13,1.089,703.25
+LAX2,42,RCC1151,Calcidiscus leptoporus,n,Yes,0.8,NH4OH,,211.71,445.48,2.572,3136.07
+LAX3,43,RCC1151,Calcidiscus leptoporus,n,Yes,0.8,NH4OH,,153.66,400.25,1.855,2280.64
+LBX1,44,RCC1151,Calcidiscus leptoporus,n,Yes,0.4,NH4OH,,192.57,280.04,1.726,1665.53
+LBX2,45,RCC1151,Calcidiscus leptoporus,n,Yes,0.4,NH4OH,,238.84,261.53,1.837,1362.09
+LBX3,46,RCC1151,Calcidiscus leptoporus,n,Yes,0.4,NH4OH,,146.08,4309.43,1.505,1693.22
+LAY1,47,RCC1151,Calcidiscus leptoporus,n,Yes,0.8,K2B4O7,,258.88,344.41,2.458,2574.95
+LAY2,48,RCC1151,Calcidiscus leptoporus,n,Yes,0.8,K2B4O7,Fell on possibly dirty surface.,356.82,480.00,3.519,3806.10
+LAY3,49,RCC1151,Calcidiscus leptoporus,n,Yes,0.8,K2B4O7,,298.28,382.77,2.865,3083.53
+LBY1,50,RCC1151,Calcidiscus leptoporus,n,Yes,0.4,K2B4O7,,135.63,112.13,0.868,636.96
+LBY2,51,RCC1151,Calcidiscus leptoporus,n,Yes,0.4,K2B4O7,,213.41,260.35,1.895,1926.01
+LBY3,52,RCC1151,Calcidiscus leptoporus,n,Yes,0.4,K2B4O7,,114.76,90.55,0.824,552.91
+CAX1,53,RCC1164,Calcidiscus leptoporus,2n,Yes,0.8,NH4OH,,625.42,321.79,4.520,2372.71
+CAX2,54,RCC1164,Calcidiscus leptoporus,2n,Yes,0.8,NH4OH,,1144.30,458.65,7.126,2203.04
+CAX3,55,RCC1164,Calcidiscus leptoporus,2n,Yes,0.8,NH4OH,Weird filtration.,1547.04,18200.85,8.204,1007.95
+CAX0,55.5,RCC1164,Calcidiscus leptoporus,2n,Yes,0.8,NH4OH,Weird filtration.,1562.99,17892.34,8.530,992.11
+CBX1,56,RCC1164,Calcidiscus leptoporus,2n,Yes,0.4,NH4OH,,564.61,495.03,3.417,918.11
+CBX2,57,RCC1164,Calcidiscus leptoporus,2n,Yes,0.4,NH4OH,,1103.31,384.69,6.194,573.25
+CBX3,58,RCC1164,Calcidiscus leptoporus,2n,Yes,0.4,NH4OH,,1383.07,132.04,7.438,303.27
+CAY1,59,RCC1164,Calcidiscus leptoporus,2n,Yes,0.8,K2B4O7,,1010.49,43.44,5.359,146.28
+CAY2,60,RCC1164,Calcidiscus leptoporus,2n,Yes,0.8,K2B4O7,,1546.13,132.74,8.642,971.28
+CAY3,61,RCC1164,Calcidiscus leptoporus,2n,Yes,0.8,K2B4O7,,899.83,94.96,4.990,594.38
+CBY1,62,RCC1164,Calcidiscus leptoporus,2n,Yes,0.4,K2B4O7,,259.44,113.02,1.670,733.81
+CBY2,63,RCC1164,Calcidiscus leptoporus,2n,Yes,0.4,K2B4O7,,447.84,108.03,2.684,632.06
+CBY3,64,RCC1164,Calcidiscus leptoporus,2n,Yes,0.4,K2B4O7,,1402.51,106.85,7.871,422.56
+NAX1,65,RCC1129,Calcidiscus leptoporus,n,No,0.8,NH4OH,,80.13,445.47,1.088,1360.09
+NAX2,66,RCC1129,Calcidiscus leptoporus,n,No,0.8,NH4OH,,139.07,484.15,2.292,3149.81
+NAX3,67,RCC1129,Calcidiscus leptoporus,n,No,0.8,NH4OH,,134.05,258.89,1.546,2024.26
+NBX1,68,RCC1129,Calcidiscus leptoporus,n,No,0.4,NH4OH,,34.64,82.65,0.398,476.37
+NBX2,69,RCC1129,Calcidiscus leptoporus,n,No,0.4,NH4OH,,42.44,149.35,0.628,806.03
+NBX3,70,RCC1129,Calcidiscus leptoporus,n,No,0.4,NH4OH,,225.34,684.66,3.875,5447.70
+NAY1,71,RCC1129,Calcidiscus leptoporus,n,No,0.8,K2B4O7,,58.53,133.75,0.744,847.05
+NAY2,72,RCC1129,Calcidiscus leptoporus,n,No,0.8,K2B4O7,,212.05,618.90,3.561,4937.58
+NAY0,72.5,RCC1129,Calcidiscus leptoporus,n,No,0.8,K2B4O7,,209.62,625.54,3.493,5002.03
+NAY3,73,RCC1129,Calcidiscus leptoporus,n,No,0.8,K2B4O7,,142.17,367.13,2.192,3090.08
+NBY1,74,RCC1129,Calcidiscus leptoporus,n,No,0.4,K2B4O7,,124.55,328.49,1.997,2553.61
+NBY2,75,RCC1129,Calcidiscus leptoporus,n,No,0.4,K2B4O7,,60.67,159.61,0.811,1129.47
+NBY3,76,RCC1129,Calcidiscus leptoporus,n,No,0.4,K2B4O7,,27.44,63.61,0.299,278.26
+UAX1,77,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.8,NH4OH,,348.12,856.86,2.437,2008.72
+UAX2,78,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.8,NH4OH,,213.18,50914.69,1.487,1515.78
+UAX3,79,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.8,NH4OH,,277.14,1164.54,2.013,2108.76
+UBX1,80,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.4,NH4OH,,645.82,58433.17,4.259,5224.28
+UBX2,81,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.4,NH4OH,,196.16,974.64,1.508,1395.41
+UBX3,82,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.4,NH4OH,,376.99,1110.35,2.789,2324.95
+UAY1,83,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.8,K2B4O7,Leaked few drops?,304.90,475.65,2.293,1824.70
+UAY2,84,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.8,K2B4O7,,101.97,200.98,0.786,700.22
+UAY3,85,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.8,K2B4O7,,488.74,671.95,4.732,4161.95
+UBY1,86,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.4,K2B4O7,,222.31,1165.15,1.384,954.29
+UBY2,87,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.4,K2B4O7,,164.39,375.16,0.907,508.67
+UBY3,88,RCC1472,Umbilicosphaera foliosa,2n,Yes,0.4,K2B4O7,,137.36,465.17,0.625,188.78
